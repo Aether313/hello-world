@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practising the GitHub Flow
 
-hello testing
+hello testing, both the editors are me
